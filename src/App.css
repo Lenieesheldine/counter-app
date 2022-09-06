@@ -1,0 +1,25 @@
+.button1{
+  margin-left: 30px;
+  background-color: palevioletred;
+  width: 60px;
+  border-radius: 40px;
+}
+.button2{
+  margin-left: 30px;
+  background-color: palevioletred;
+  width: 60px;
+  border-radius: 40px;
+}
+h1{
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+body{
+  background-color: plum;
+  
+}
+.move{
+  margin-left: 50px;
+  margin-top: 100px;
+}
